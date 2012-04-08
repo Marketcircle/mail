@@ -13,3 +13,5 @@ spec/fixtures/emails/failed_emails/
 tmp
 tags
 .rbx
+pkg/
+
